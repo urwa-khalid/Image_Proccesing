@@ -1,0 +1,12 @@
+11
+Flip Image Horizontally
+Flip Image Vertically
+Rotate Image by 90 clockwise
+Rotate Image by 90 counter-clockwise
+Rotate Image by Any Angle
+Convert Image to Binary
+Resize Image
+Crop An Image
+Combine two Images side-by-side
+Combine two Images top to bottom
+Back to the Main Menu

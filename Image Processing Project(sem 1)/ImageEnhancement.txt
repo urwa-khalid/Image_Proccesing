@@ -1,0 +1,5 @@
+4
+Change Brightness of Image
+Enhance Contrast of Image
+Adjust Sharpness Of Image
+Back to the Main Menu

@@ -1,0 +1,9 @@
+8
+Load Image
+Save Image
+0pen Image in IrfanView
+Image Enhancement
+Geometric Transformation
+Image Filtering
+Image Transformation
+Exit

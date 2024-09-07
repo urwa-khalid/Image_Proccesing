@@ -1,0 +1,8 @@
+7
+Apply Mean Filter
+Apply Median Filter
+Apply a General Linear Filter(loaded from a file)
+Enhance Image by applying a filter
+Compute derivative of an image using derivative mask(filters)
+Use derivatives to find edges of an image
+Back to the Main Menu
